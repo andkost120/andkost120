@@ -28,7 +28,7 @@ My strengths include
     ><img
       src="https://camo.githubusercontent.com/e10320df09d2d95e5a1cc8f0ce1b52538db9d62eff2725f3a594995babae60c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"
       alt="Python"
-      data-canonical-src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=python&amp;logoColor=61DAFB"
+      data-canonical-src="https://img.shields.io/badge/Python-20232A?style=flat&amp;logo=python&amp;logoColor=61DAFB"
       style="max-width: 100%"
   /></a>
   <a
