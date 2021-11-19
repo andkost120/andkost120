@@ -3,6 +3,7 @@
 My strengths include
 - javascript/typescript/react.js/gatsby.js/next.js
 - material-ui, styled-components, react-bootstrap, react-query, reselect, apollo/graphql, SCSS ...
+- headless cms: Prismic, Strapi, Contentful, Wordpress
 - python/fastapi/flask, node.js/express
 - celery, redis, arq, sequelize, mongoose, typeorm, sqlalchemy, tortoise, jwt, ...
 - mysql/mariadb/postgres/mongodb
